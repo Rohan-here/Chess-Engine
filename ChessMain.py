@@ -32,7 +32,7 @@ def main():
     sqSelected = ()
     playerClicks = []
     gameOver = False
-    playerOne = False
+    playerOne = True
     playerTwo = False
 
     while running:
